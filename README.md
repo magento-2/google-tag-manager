@@ -2,7 +2,7 @@
 ## Introduction
 Instead of managing separately Google Adwords, Google Analytics, etc, you can control all of them through Google Tag Manager site when you use the [Magento 2 Google Tag Manager](https://www.mageplaza.com/magento-2-google-tag-manager/) to add it into your website.
 
-In order to apply **Google Tag Manager for Magento 2**, only need to insert Google Tag ID, which you get from creating Google Tag Manager account from https://www.google.com/analytics/tag-manager/, into the Magento Admin and then, enable it to use. It is so easy and simple to reach such awesome tool only with Magento extension
+In order to apply **Google Tag Manager** for [Magento 2](https://magento.com/), only need to insert Google Tag ID, which you get from creating Google Tag Manager account from https://www.google.com/analytics/tag-manager/, into the Magento Admin and then, enable it to use. It is so easy and simple to reach such awesome tool only with Magento extension
 
 *This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-google-tag-manager/) and no longer download from Github.*
 
